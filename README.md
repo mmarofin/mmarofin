@@ -7,14 +7,14 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 About Me
 - 🌍 Based in Slovakia.
 - 💻 Passionate about fivem script development.
-- 🎓 Currently learning C++/C/C#.
+- 🎓 Currently learning JS.
 - 🔭 Working on Atomic Roleplay.
 - 🤝 Open to collaborating on fivem scripts/servers.
 
 ---
 
 ## 🌟 Skills & Tools
-- Programming: lua, html, css
+- Programming: lua, html
 - Frameworks/Technologies: ESX
 - Tools: Visual Studio Code
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📫 How to Reach Me
 - 🌐 Personal Website: WIP
 - 📧 Email: marofincontact@gmail.com
-- 👾 Discord: studeny.maro
+- 👾 Discord: marofin
 
 ---
 
