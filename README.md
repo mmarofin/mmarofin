@@ -7,14 +7,14 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 About Me
 - 🌍 Based in Slovakia.
 - 💻 Passionate about fivem script development.
-- 🎓 Currently learning C#, C++.
+- 🎓 Currently learning php, C++.
 - 🔭 Working on Atomic Roleplay, KM Scripts.
 - 🤝 Open to collaborating on fivem scripts/servers.
 
 ---
 
 ## 🌟 Skills & Tools
-- Programming: lua, html, css, js
+- Programming: lua, html, css, js, basics of C#
 - Frameworks/Technologies: ESX
 
 ---
